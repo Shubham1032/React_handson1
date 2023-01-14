@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#Maincontainer{
+    width: 100%;
+    height: 100vh;
+background-image: linear-gradient(
+    skyblue,
+    pink,
+    white
+);
+text-align: center;
+}
+button{
+    margin: 50px;
+    width: 250px;
+    height: 80px;
+    border-radius: 35px;
+    background-color: skyblue;
+    font-weight: 900;
+}
